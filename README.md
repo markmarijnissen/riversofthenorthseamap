@@ -1,6 +1,6 @@
 ﻿# Rivers of the North Sea - Map
 
-- [Download images here]](https://github.com/markmarijnissen/riversofthenorthseamap/tree/main/images) 
+- [Download images here](https://github.com/markmarijnissen/riversofthenorthseamap/tree/main/images) 
 
 ![Rivers of the North Sea](<./images/Rivers of the North Sea.png>)
 
